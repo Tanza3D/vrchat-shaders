@@ -1,4 +1,4 @@
-Shader "Tanza/Fur" {
+Shader "Tanza/FurAlternate" {
  
 Properties {
       _Color ("Color", Color) = (1,1,1,1)
